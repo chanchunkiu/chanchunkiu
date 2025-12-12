@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🌱 I’m currently learning blender and web development<br>
+🌱 I’m currently learning Blender and cloud development<br>
 
 
 # 💻 Tech Stack:
